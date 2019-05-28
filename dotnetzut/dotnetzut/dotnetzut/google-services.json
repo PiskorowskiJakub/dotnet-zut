@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934244202613",
+    "firebase_url": "https://dotnet-zut.firebaseio.com",
+    "project_id": "dotnet-zut",
+    "storage_bucket": "dotnet-zut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934244202613:android:fd89ee92a17eef62",
+        "android_client_info": {
+          "package_name": "com.companyname.dotnetzut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934244202613-bm2t276fnvfbbk8a3vqjb117ehhmu3rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.dotnetzut",
+            "certificate_hash": "cfdb61fce6bf9fa33579ee37b32ec37be8c5a56a"
+          }
+        },
+        {
+          "client_id": "934244202613-fl83j2hps9go6p0fgh0ipem4u8ju9fdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQAsoxbPm0qDqGyXiXtP9OCMn-NCpqfBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934244202613-fl83j2hps9go6p0fgh0ipem4u8ju9fdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
